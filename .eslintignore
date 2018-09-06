@@ -1,0 +1,5 @@
+*.js
+!server/**/*.js
+!www/**/*.js
+!tools/**/*.js
+

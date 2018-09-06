@@ -1,0 +1,10 @@
+*.js
+!www/**/*.js
+!server/**/*.js
+!tools/**/*.js
+webpack.config.*
+package.json
+appseed.config.js
+bower.json
+.storybook
+README.md

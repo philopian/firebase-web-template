@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "DEPLOY",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+
+    "redirects": [
+      {
+        "source": "/foo",
+        "destination": "/index.html",
+        "type": 302
+      }
+    ]
+  }
+}
